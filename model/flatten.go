@@ -11,8 +11,8 @@ import (
 	"math"
 	"strings"
 
-	"github.com/unidoc/unipdf/v3/common"
-	"github.com/unidoc/unipdf/v3/core"
+	"github.com/loxiouve/unipdf/v3/common"
+	"github.com/loxiouve/unipdf/v3/core"
 )
 
 // ContentStreamWrapper wraps the Page's contentstream into q ... Q blocks.

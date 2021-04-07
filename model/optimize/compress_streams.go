@@ -6,7 +6,7 @@
 package optimize
 
 import (
-	"github.com/unidoc/unipdf/v3/core"
+	"github.com/loxiouve/unipdf/v3/core"
 )
 
 // CompressStreams compresses uncompressed streams.

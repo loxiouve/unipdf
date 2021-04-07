@@ -9,10 +9,10 @@ import (
 	"bytes"
 	"io"
 
-	"github.com/unidoc/unipdf/v3/common"
+	"github.com/loxiouve/unipdf/v3/common"
 
-	"github.com/unidoc/unipdf/v3/internal/jbig2/bitmap"
-	"github.com/unidoc/unipdf/v3/internal/jbig2/errors"
+	"github.com/loxiouve/unipdf/v3/internal/jbig2/bitmap"
+	"github.com/loxiouve/unipdf/v3/internal/jbig2/errors"
 )
 
 // Encoder is the jbig2 arithmetic encoder context.

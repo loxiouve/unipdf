@@ -6,9 +6,9 @@
 package bitmap
 
 import (
-	"github.com/unidoc/unipdf/v3/common"
+	"github.com/loxiouve/unipdf/v3/common"
 
-	"github.com/unidoc/unipdf/v3/internal/jbig2/errors"
+	"github.com/loxiouve/unipdf/v3/internal/jbig2/errors"
 )
 
 // BoundaryCondition is the global enum variable used to define morph operation boundary conditions.

@@ -21,9 +21,9 @@ import (
 	"github.com/stretchr/testify/assert"
 	"github.com/stretchr/testify/require"
 
-	"github.com/unidoc/unipdf/v3/common"
-	"github.com/unidoc/unipdf/v3/model"
-	"github.com/unidoc/unipdf/v3/model/optimize"
+	"github.com/loxiouve/unipdf/v3/common"
+	"github.com/loxiouve/unipdf/v3/model"
+	"github.com/loxiouve/unipdf/v3/model/optimize"
 )
 
 var (

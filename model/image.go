@@ -11,16 +11,17 @@ import (
 	goimage "image"
 	gocolor "image/color"
 	"image/draw"
+
 	// Imported for initialization side effects.
 	_ "image/gif"
 	_ "image/png"
 	"io"
 
-	"github.com/unidoc/unipdf/v3/common"
-	"github.com/unidoc/unipdf/v3/core"
-	"github.com/unidoc/unipdf/v3/internal/imageutil"
-	"github.com/unidoc/unipdf/v3/internal/jbig2/bitmap"
-	"github.com/unidoc/unipdf/v3/internal/sampling"
+	"github.com/loxiouve/unipdf/v3/common"
+	"github.com/loxiouve/unipdf/v3/core"
+	"github.com/loxiouve/unipdf/v3/internal/imageutil"
+	"github.com/loxiouve/unipdf/v3/internal/jbig2/bitmap"
+	"github.com/loxiouve/unipdf/v3/internal/sampling"
 )
 
 // Image interface is a basic representation of an image used in PDF.

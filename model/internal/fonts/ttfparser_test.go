@@ -4,7 +4,7 @@ import (
 	"path/filepath"
 	"testing"
 
-	"github.com/unidoc/unipdf/v3/internal/textencoding"
+	"github.com/loxiouve/unipdf/v3/internal/textencoding"
 )
 
 const fontDir = `../../../creator/testdata`

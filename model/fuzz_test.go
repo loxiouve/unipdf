@@ -8,7 +8,7 @@ package model
 import (
 	"testing"
 
-	"github.com/unidoc/unipdf/v3/core"
+	"github.com/loxiouve/unipdf/v3/core"
 )
 
 // Test for an endless recursive loop in

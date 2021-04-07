@@ -6,11 +6,11 @@
 package annotator
 
 import (
-	"github.com/unidoc/unipdf/v3/common"
+	"github.com/loxiouve/unipdf/v3/common"
 
-	"github.com/unidoc/unipdf/v3/contentstream/draw"
-	pdfcore "github.com/unidoc/unipdf/v3/core"
-	pdf "github.com/unidoc/unipdf/v3/model"
+	"github.com/loxiouve/unipdf/v3/contentstream/draw"
+	pdfcore "github.com/loxiouve/unipdf/v3/core"
+	pdf "github.com/loxiouve/unipdf/v3/model"
 )
 
 type CircleAnnotationDef struct {

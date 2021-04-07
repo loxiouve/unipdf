@@ -11,8 +11,8 @@ import (
 	"github.com/stretchr/testify/assert"
 	"github.com/stretchr/testify/require"
 
-	"github.com/unidoc/unipdf/v3/common"
-	"github.com/unidoc/unipdf/v3/internal/jbig2/basic"
+	"github.com/loxiouve/unipdf/v3/common"
+	"github.com/loxiouve/unipdf/v3/internal/jbig2/basic"
 )
 
 func TestSeedfillBinary(t *testing.T) {

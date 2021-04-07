@@ -12,11 +12,9 @@ import (
 	"github.com/stretchr/testify/assert"
 	"github.com/stretchr/testify/require"
 
-	"github.com/unidoc/unipdf/v3/internal/jbig2/decoder/arithmetic"
-	"github.com/unidoc/unipdf/v3/internal/jbig2/reader"
+	"github.com/loxiouve/unipdf/v3/internal/jbig2/decoder/arithmetic"
+	"github.com/loxiouve/unipdf/v3/internal/jbig2/reader"
 )
-
-
 
 // TestEncoder tests the encoder using the standard H.2 test sequence.
 func TestEncoder(t *testing.T) {

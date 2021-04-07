@@ -9,9 +9,9 @@ import (
 	"fmt"
 	"image/color"
 
-	"github.com/unidoc/unipdf/v3/common"
-	"github.com/unidoc/unipdf/v3/core"
-	"github.com/unidoc/unipdf/v3/model"
+	"github.com/loxiouve/unipdf/v3/common"
+	"github.com/loxiouve/unipdf/v3/core"
+	"github.com/loxiouve/unipdf/v3/model"
 )
 
 // RenderMode specifies the text rendering mode (Tmode), which determines whether showing text shall cause
@@ -38,8 +38,6 @@ func toFloatXY(objs []core.PdfObject) (x, y float64, err error) {
 	}
 	return floats[0], floats[1], nil
 }
-
-
 
 // truncate returns the first `n` characters in string `s`.
 func truncate(s string, n int) string {

@@ -8,7 +8,7 @@ package optimize
 import (
 	"bytes"
 
-	"github.com/unidoc/unipdf/v3/core"
+	"github.com/loxiouve/unipdf/v3/core"
 )
 
 type objectStructure struct {

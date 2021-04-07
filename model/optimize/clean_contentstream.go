@@ -6,8 +6,8 @@
 package optimize
 
 import (
-	"github.com/unidoc/unipdf/v3/contentstream"
-	"github.com/unidoc/unipdf/v3/core"
+	"github.com/loxiouve/unipdf/v3/contentstream"
+	"github.com/loxiouve/unipdf/v3/core"
 )
 
 // CleanContentstream cleans up redundant operands in content streams, including Page and XObject Form

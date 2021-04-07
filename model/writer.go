@@ -20,11 +20,11 @@ import (
 	"strings"
 	"time"
 
-	"github.com/unidoc/unipdf/v3/common"
-	"github.com/unidoc/unipdf/v3/common/license"
-	"github.com/unidoc/unipdf/v3/core"
-	"github.com/unidoc/unipdf/v3/core/security"
-	"github.com/unidoc/unipdf/v3/core/security/crypt"
+	"github.com/loxiouve/unipdf/v3/common"
+	"github.com/loxiouve/unipdf/v3/common/license"
+	"github.com/loxiouve/unipdf/v3/core"
+	"github.com/loxiouve/unipdf/v3/core/security"
+	"github.com/loxiouve/unipdf/v3/core/security/crypt"
 )
 
 var pdfAuthor = ""

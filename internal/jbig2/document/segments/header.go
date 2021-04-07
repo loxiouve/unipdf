@@ -12,12 +12,12 @@ import (
 	"math"
 	"strings"
 
-	"github.com/unidoc/unipdf/v3/common"
+	"github.com/loxiouve/unipdf/v3/common"
 
-	"github.com/unidoc/unipdf/v3/internal/jbig2/basic"
-	"github.com/unidoc/unipdf/v3/internal/jbig2/errors"
-	"github.com/unidoc/unipdf/v3/internal/jbig2/reader"
-	"github.com/unidoc/unipdf/v3/internal/jbig2/writer"
+	"github.com/loxiouve/unipdf/v3/internal/jbig2/basic"
+	"github.com/loxiouve/unipdf/v3/internal/jbig2/errors"
+	"github.com/loxiouve/unipdf/v3/internal/jbig2/reader"
+	"github.com/loxiouve/unipdf/v3/internal/jbig2/writer"
 )
 
 // Header is the segment header used to define the segment parameters - see 7.2.

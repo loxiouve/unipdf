@@ -21,11 +21,11 @@ import (
 	"github.com/stretchr/testify/require"
 	"golang.org/x/crypto/pkcs12"
 
-	"github.com/unidoc/unipdf/v3/annotator"
-	"github.com/unidoc/unipdf/v3/common"
-	"github.com/unidoc/unipdf/v3/core"
-	"github.com/unidoc/unipdf/v3/model"
-	"github.com/unidoc/unipdf/v3/model/sighandler"
+	"github.com/loxiouve/unipdf/v3/annotator"
+	"github.com/loxiouve/unipdf/v3/common"
+	"github.com/loxiouve/unipdf/v3/core"
+	"github.com/loxiouve/unipdf/v3/model"
+	"github.com/loxiouve/unipdf/v3/model/sighandler"
 )
 
 // This test file contains multiple tests to generate PDFs from existing Pdf files. The outputs are written

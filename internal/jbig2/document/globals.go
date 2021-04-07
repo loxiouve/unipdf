@@ -6,8 +6,8 @@
 package document
 
 import (
-	"github.com/unidoc/unipdf/v3/internal/jbig2/document/segments"
-	"github.com/unidoc/unipdf/v3/internal/jbig2/errors"
+	"github.com/loxiouve/unipdf/v3/internal/jbig2/document/segments"
+	"github.com/loxiouve/unipdf/v3/internal/jbig2/errors"
 )
 
 // Globals store segments that aren't associated to a page.

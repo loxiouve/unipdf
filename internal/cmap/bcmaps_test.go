@@ -8,8 +8,8 @@ package cmap
 import (
 	"testing"
 
+	"github.com/loxiouve/unipdf/v3/internal/cmap/bcmaps"
 	"github.com/stretchr/testify/require"
-	"github.com/unidoc/unipdf/v3/internal/cmap/bcmaps"
 )
 
 func TestIsPredefinedCMap(t *testing.T) {

@@ -8,7 +8,7 @@ package extractor
 import (
 	"fmt"
 
-	"github.com/unidoc/unipdf/v3/model"
+	"github.com/loxiouve/unipdf/v3/model"
 )
 
 // Extractor stores and offers functionality for extracting content from PDF pages.

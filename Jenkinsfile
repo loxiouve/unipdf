@@ -97,7 +97,7 @@ node {
             git url: 'https://github.com/unidoc/unidoc-examples.git', branch: examplesBranch
 
             // Use replace directive to use disk version of unipdf.
-            sh 'echo "replace github.com/unidoc/unipdf/v3 => ../unipdf" >>go.mod'
+            sh 'echo "replace github.com/loxiouve/unipdf/v3 => ../unipdf" >>go.mod'
 
             // Dependencies for examples.
             sh './build_examples.sh'
