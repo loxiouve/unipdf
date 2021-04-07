@@ -1,4 +1,4 @@
-module github.com/unidoc/unipdf/v3
+module github.com/loxiouve/unipdf/v3
 
 go 1.11
 
